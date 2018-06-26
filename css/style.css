@@ -1,0 +1,57 @@
+body {
+  font-family: 'Bitter', serif;
+}
+
+a {
+  font-size: 15px;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+p {
+  font-size: 18px;
+}
+
+.my-logo{
+  color: grey;
+}
+
+.bd-footer {
+  font-size: 125%;
+  background-color: #f7f7f7;
+}
+.bd-footer a {
+    font-weight: 500;
+    color: #495057;
+}
+
+.bd-footer-links {
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+
+.bd-footer-links li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.card {
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+}
+
+.custom {
+    background-color: #f7f7f7;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+h6 {
+  border: none;
+  text-decoration: none;
+}
+
+.certificate {
+  width: 80%;
+  margin: auto;
+}
