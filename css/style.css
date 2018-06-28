@@ -1,3 +1,4 @@
+
 body {
   font-family: 'Bitter', serif;
 }
@@ -16,6 +17,32 @@ p {
   color: grey;
 }
 
+.card {
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+}
+
+h6 {
+  border: none;
+  text-decoration: none;
+}
+
+/* main  */
+
+.certificate {
+  padding: 10px;
+  margin-bottom: 10px;
+
+}
+
+.custom {
+    background-color: #f7f7f7;
+    padding-left: 20px;
+
+}
+
+
+/* footer */
 .bd-footer {
   font-size: 125%;
   background-color: #f7f7f7;
@@ -35,23 +62,11 @@ p {
     margin-right: 20px;
 }
 
-.card {
-    background-color: #f7f7f7;
-    margin-bottom: 10px;
+footer {
+  border-top: 5px solid white;
 }
 
-.custom {
-    background-color: #f7f7f7;
-    margin-bottom: 20px;
-    margin-top: 20px;
-}
-
-h6 {
-  border: none;
-  text-decoration: none;
-}
-
-.certificate {
-  width: 80%;
-  margin: auto;
+.kaggle {
+  height: 30px;
+  padding-bottom: 2px;
 }
